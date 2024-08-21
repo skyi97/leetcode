@@ -1,2 +1,2 @@
-# leetcode
-Just to keep records of Leetcode problems attempted
+# Leetcode
+My Solutions for Leetcode problems I've attempted
